@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  Recipe 9-5: Displaying Camera Preview
+//  Recipe 9-6 Capturing Still Images with AVCaptureSession
 //
 //  Created by joseph hoffman on 8/22/13.
 //  Copyright (c) 2013 NSCookbook. All rights reserved.

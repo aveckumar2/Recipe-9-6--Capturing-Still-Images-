@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Recipe 9-5: Displaying Camera Preview.xcodeproj">
+      location = "self:Recipe 9-6 Capturing Still Images with AVCaptureSession.xcodeproj">
    </FileRef>
 </Workspace>
